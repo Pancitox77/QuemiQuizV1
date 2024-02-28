@@ -1,0 +1,16 @@
+/* Widget: Burbuja */
+
+.EtiquetaSimboloBlanco.label .text {
+    stroke: black;
+    stroke-width: .5px;
+
+    -fx-stroke: black;
+    -fx-stroke-width: .5px;
+}
+
+/* Drag and Drop */
+
+.DragEntered {
+    border-color: green;
+    -fx-border-color: green;
+}

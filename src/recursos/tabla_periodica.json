@@ -1,0 +1,1902 @@
+[
+    {
+        "n_atom": 1,
+        "nombre": "Hidrógeno",
+        "simbolo": "H",
+        "masa_atom": 1.008,
+        "est_oxid": [
+            1
+        ],
+        "config_elec": "1s1",
+        "estado_natural": "sólido",
+        "tipo_material": "neutro",
+        "tipo_detallado": "gas",
+        "color_simbolo": "#0000AA",
+        "color_fondo": "#61b9c7"
+    },
+    {
+        "n_atom": 2,
+        "nombre": "Helio",
+        "simbolo": "He",
+        "masa_atom": 4.0026,
+        "est_oxid": [
+            0
+        ],
+        "config_elec": "1s2",
+        "estado_natural": "gas inerte",
+        "tipo_material": "inerte",
+        "tipo_detallado": "gas inerte",
+        "color_simbolo": "#11b532",
+        "color_fondo": "#d8e2eb"
+    },
+    {
+        "n_atom": 3,
+        "nombre": "Litio",
+        "simbolo": "Li",
+        "masa_atom": 6.941,
+        "est_oxid": [
+            1
+        ],
+        "config_elec": "1s2 2s1",
+        "estado_natural": "sólido",
+        "tipo_material": "metal",
+        "tipo_detallado": "metal alcalino",
+        "color_simbolo": "#000000",
+        "color_fondo": "#db8875"
+    },
+    {
+        "n_atom": 4,
+        "nombre": "Berilio",
+        "simbolo": "Be",
+        "masa_atom": 9.0122,
+        "est_oxid": [
+            2
+        ],
+        "config_elec": "1s2 2s2",
+        "estado_natural": "sólido",
+        "tipo_material": "metal",
+        "tipo_detallado": "metal alcalino térreo",
+        "color_simbolo": "#000000",
+        "color_fondo": "#85cc18"
+    },
+    {
+        "n_atom": 5,
+        "nombre": "Boro",
+        "simbolo": "B",
+        "masa_atom": 10.811,
+        "est_oxid": [
+            3
+        ],
+        "config_elec": "1s2 2s2 2p1",
+        "estado_natural": "sólido",
+        "tipo_material": "no metal",
+        "tipo_detallado": "metaloide",
+        "color_simbolo": "#000000",
+        "color_fondo": "#bada55"
+    },
+    {
+        "n_atom": 6,
+        "nombre": "Carbono",
+        "simbolo": "C",
+        "masa_atom": 12.01115,
+        "est_oxid": [
+            2,
+            4
+        ],
+        "config_elec": "1s2 2s2 2p2",
+        "estado_natural": "sólido",
+        "tipo_material": "no metal",
+        "tipo_detallado": "no metal",
+        "color_simbolo": "#000000",
+        "color_fondo": "#c1d7ae"
+    },
+    {
+        "n_atom": 7,
+        "nombre": "Nitrógeno",
+        "simbolo": "N",
+        "masa_atom": 14.0067,
+        "est_oxid": [
+            1,
+            2,
+            3,
+            -3,
+            4,
+            5
+        ],
+        "config_elec": "1s2 2s2 2p3",
+        "estado_natural": "gas",
+        "tipo_material": "no metal",
+        "tipo_detallado": "no metal",
+        "color_simbolo": "#0000AA",
+        "color_fondo": "#c1d7ae"
+    },
+    {
+        "n_atom": 8,
+        "nombre": "Oxígeno",
+        "simbolo": "O",
+        "masa_atom": 15.9994,
+        "est_oxid": [
+            -2
+        ],
+        "config_elec": "1s2 2s2 2p4",
+        "estado_natural": "gas",
+        "tipo_material": "no metal",
+        "tipo_detallado": "no metal",
+        "color_simbolo": "#0000AA",
+        "color_fondo": "#c1d7ae"
+    },
+    {
+        "n_atom": 9,
+        "nombre": "Flúor",
+        "simbolo": "F",
+        "masa_atom": 18.9984,
+        "est_oxid": [
+            -1
+        ],
+        "config_elec": "1s2 2s2 2p5",
+        "estado_natural": "gas",
+        "tipo_material": "no metal",
+        "tipo_detallado": "no metal",
+        "color_simbolo": "#0000AA",
+        "color_fondo": "#c1d7ae"
+    },
+    {
+        "n_atom": 10,
+        "nombre": "Neón",
+        "simbolo": "Ne",
+        "masa_atom": 20.1797,
+        "est_oxid": [
+            "-"
+        ],
+        "config_elec": "1s2 2s2 2p6",
+        "estado_natural": "gas inerte",
+        "tipo_material": "inerte",
+        "tipo_detallado": "gas inerte",
+        "color_simbolo": "#11b532",
+        "color_fondo": "#d8e2eb"
+    },
+    {
+        "n_atom": 11,
+        "nombre": "Sodio",
+        "simbolo": "Na",
+        "masa_atom": 22.9898,
+        "est_oxid": [
+            "-"
+        ],
+        "config_elec": "1s2 2s2 2p6 3s1",
+        "estado_natural": "sólido",
+        "tipo_material": "metal",
+        "tipo_detallado": "metal alcalino",
+        "color_simbolo": "#000000",
+        "color_fondo": "#db8875"
+    },
+    {
+        "n_atom": 12,
+        "nombre": "Magnesio",
+        "simbolo": "Mg",
+        "masa_atom": 24.305,
+        "est_oxid": [
+            "-"
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2",
+        "estado_natural": "sólido",
+        "tipo_material": "metal",
+        "tipo_detallado": "metal alcalino térreo",
+        "color_simbolo": "#000000",
+        "color_fondo": "#85cc18"
+    },
+    {
+        "n_atom": 13,
+        "nombre": "Aluminio",
+        "simbolo": "Al",
+        "masa_atom": 26.9815,
+        "est_oxid": [
+            3
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p1",
+        "estado_natural": "sólido",
+        "tipo_material": "metal",
+        "tipo_detallado": "metal pobre",
+        "color_simbolo": "#000000",
+        "color_fondo": "#FFB5B5"
+    },
+    {
+        "n_atom": 14,
+        "nombre": "Sílice",
+        "simbolo": "Si",
+        "masa_atom": 28.086,
+        "est_oxid": [
+            4
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p2",
+        "estado_natural": "sólido",
+        "tipo_material": "no metal",
+        "tipo_detallado": "metaloide",
+        "color_simbolo": "#000000",
+        "color_fondo": "#bada55"
+    },
+    {
+        "n_atom": 15,
+        "nombre": "Fósforo",
+        "simbolo": "P",
+        "masa_atom": 30.9738,
+        "est_oxid": [
+            3,
+            -3,
+            5
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p3",
+        "estado_natural": "sólido",
+        "tipo_material": "no metal",
+        "tipo_detallado": "no metal",
+        "color_simbolo": "#000000",
+        "color_fondo": "#c1d7ae"
+    },
+    {
+        "n_atom": 16,
+        "nombre": "Azufre",
+        "simbolo": "S",
+        "masa_atom": 32.064,
+        "est_oxid": [
+            2,
+            -2,
+            4,
+            6
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p4",
+        "estado_natural": "sólido",
+        "tipo_material": "no metal",
+        "tipo_detallado": "no metal",
+        "color_simbolo": "#000000",
+        "color_fondo": "#c1d7ae"
+    },
+    {
+        "n_atom": 17,
+        "nombre": "Cloro",
+        "simbolo": "Cl",
+        "masa_atom": 35.453,
+        "est_oxid": [
+            1,
+            -1,
+            3,
+            5,
+            7
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p5",
+        "estado_natural": "gas",
+        "tipo_material": "no metal",
+        "tipo_detallado": "no metal",
+        "color_simbolo": "#0000AA",
+        "color_fondo": "#c1d7ae"
+    },
+    {
+        "n_atom": 18,
+        "nombre": "Argón",
+        "simbolo": "Ar",
+        "masa_atom": 39.948,
+        "est_oxid": [
+            0
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p6",
+        "estado_natural": "gas inerte",
+        "tipo_material": "inerte",
+        "tipo_detallado": "gas inerte",
+        "color_simbolo": "#11b532",
+        "color_fondo": "#d8e2eb"
+    },
+    {
+        "n_atom": 19,
+        "nombre": "Potasio",
+        "simbolo": "K",
+        "masa_atom": 39.098,
+        "est_oxid": [
+            1
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p6 4s1",
+        "estado_natural": "sólido",
+        "tipo_material": "metal",
+        "tipo_detallado": "metal alcalino",
+        "color_simbolo": "#000000",
+        "color_fondo": "#db8875"
+    },
+    {
+        "n_atom": 20,
+        "nombre": "Calcio",
+        "simbolo": "Ca",
+        "masa_atom": 40.08,
+        "est_oxid": [
+            2
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p6 4s2",
+        "estado_natural": "sólido",
+        "tipo_material": "metal",
+        "tipo_detallado": "metal alcalino térreo",
+        "color_simbolo": "#000000",
+        "color_fondo": "#85cc18"
+    },
+    {
+        "n_atom": 21,
+        "nombre": "Escandio",
+        "simbolo": "Sc",
+        "masa_atom": 44.956,
+        "est_oxid": [
+            3
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p6 4s2 3d1",
+        "estado_natural": "sólido",
+        "tipo_material": "metal",
+        "tipo_detallado": "transición",
+        "color_simbolo": "#000000",
+        "color_fondo": "#f2ce72"
+    },
+    {
+        "n_atom": 22,
+        "nombre": "Titanio",
+        "simbolo": "Ti",
+        "masa_atom": 47.9,
+        "est_oxid": [
+            2,
+            3,
+            4
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p6 4s2 3d2",
+        "estado_natural": "sólido",
+        "tipo_material": "metal",
+        "tipo_detallado": "transición",
+        "color_simbolo": "#000000",
+        "color_fondo": "#f2ce72"
+    },
+    {
+        "n_atom": 23,
+        "nombre": "Vanadio",
+        "simbolo": "V",
+        "masa_atom": 50.942,
+        "est_oxid": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p6 4s2 3d3",
+        "estado_natural": "sólido",
+        "tipo_material": "metal",
+        "tipo_detallado": "transición",
+        "color_simbolo": "#000000",
+        "color_fondo": "#f2ce72"
+    },
+    {
+        "n_atom": 24,
+        "nombre": "Cromo",
+        "simbolo": "Cr",
+        "masa_atom": 51.996,
+        "est_oxid": [
+            2,
+            3,
+            6
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p6 4s2 3d4",
+        "estado_natural": "sólido",
+        "tipo_material": "metal",
+        "tipo_detallado": "transición",
+        "color_simbolo": "#000000",
+        "color_fondo": "#f2ce72"
+    },
+    {
+        "n_atom": 25,
+        "nombre": "Manganeso",
+        "simbolo": "Mn",
+        "masa_atom": 54.938,
+        "est_oxid": [
+            2,
+            3,
+            4,
+            6,
+            7
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p6 4s2 3d5",
+        "estado_natural": "sólido",
+        "tipo_material": "metal",
+        "tipo_detallado": "transición",
+        "color_simbolo": "#000000",
+        "color_fondo": "#f2ce72"
+    },
+    {
+        "n_atom": 26,
+        "nombre": "Hierro",
+        "simbolo": "Fe",
+        "masa_atom": 55.847,
+        "est_oxid": [
+            2,
+            3
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p6 4s2 3d6",
+        "estado_natural": "sólido",
+        "tipo_material": "metal",
+        "tipo_detallado": "transición",
+        "color_simbolo": "#000000",
+        "color_fondo": "#f2ce72"
+    },
+    {
+        "n_atom": 27,
+        "nombre": "Cobalto",
+        "simbolo": "Co",
+        "masa_atom": 58.9332,
+        "est_oxid": [
+            2,
+            3
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p6 4s2 3d7",
+        "estado_natural": "sólido",
+        "tipo_material": "metal",
+        "tipo_detallado": "transición",
+        "color_simbolo": "#000000",
+        "color_fondo": "#f2ce72"
+    },
+    {
+        "n_atom": 28,
+        "nombre": "Níquel",
+        "simbolo": "Ni",
+        "masa_atom": 58.71,
+        "est_oxid": [
+            2,
+            3
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p6 4s2 3d8",
+        "estado_natural": "sólido",
+        "tipo_material": "metal",
+        "tipo_detallado": "transición",
+        "color_simbolo": "#000000",
+        "color_fondo": "#f2ce72"
+    },
+    {
+        "n_atom": 29,
+        "nombre": "Cobre",
+        "simbolo": "Cu",
+        "masa_atom": 63.54,
+        "est_oxid": [
+            1,
+            2
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p6 4s2 3d9",
+        "estado_natural": "sólido",
+        "tipo_material": "metal",
+        "tipo_detallado": "transición",
+        "color_simbolo": "#000000",
+        "color_fondo": "#f2ce72"
+    },
+    {
+        "n_atom": 30,
+        "nombre": "Cinc",
+        "simbolo": "Zn",
+        "masa_atom": 65.37,
+        "est_oxid": [
+            2
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p6 4s2 3d10",
+        "estado_natural": "sólido",
+        "tipo_material": "metal",
+        "tipo_detallado": "transición",
+        "color_simbolo": "#000000",
+        "color_fondo": "#f2ce72"
+    },
+    {
+        "n_atom": 31,
+        "nombre": "Galio",
+        "simbolo": "Ga",
+        "masa_atom": 69.72,
+        "est_oxid": [
+            3
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p1",
+        "estado_natural": "líquido",
+        "tipo_material": "metal",
+        "tipo_detallado": "metal pobre",
+        "color_simbolo": "#FF073D",
+        "color_fondo": "#FFB5B5"
+    },
+    {
+        "n_atom": 32,
+        "nombre": "Germanio",
+        "simbolo": "Ge",
+        "masa_atom": 72.59,
+        "est_oxid": [
+            4
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p2",
+        "estado_natural": "sólido",
+        "tipo_material": "metal",
+        "tipo_detallado": "metaloide",
+        "color_simbolo": "#000000",
+        "color_fondo": "#bada55"
+    },
+    {
+        "n_atom": 33,
+        "nombre": "Arsénico",
+        "simbolo": "As",
+        "masa_atom": 74.92,
+        "est_oxid": [
+            3,
+            -3,
+            5
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p3",
+        "estado_natural": "sólido",
+        "tipo_material": "no metal",
+        "tipo_detallado": "metaloide",
+        "color_simbolo": "#000000",
+        "color_fondo": "#bada55"
+    },
+    {
+        "n_atom": 34,
+        "nombre": "Selenio",
+        "simbolo": "Se",
+        "masa_atom": 78.96,
+        "est_oxid": [
+            2,
+            -2,
+            4,
+            6
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p4",
+        "estado_natural": "sólido",
+        "tipo_material": "no metal",
+        "tipo_detallado": "no metal",
+        "color_simbolo": "#000000",
+        "color_fondo": "#c1d7ae"
+    },
+    {
+        "n_atom": 35,
+        "nombre": "Bromo",
+        "simbolo": "Br",
+        "masa_atom": 79.909,
+        "est_oxid": [
+            1,
+            -1,
+            3,
+            5,
+            7
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p5",
+        "estado_natural": "líquido",
+        "tipo_material": "no metal",
+        "tipo_detallado": "no metal",
+        "color_simbolo": "#FF073D",
+        "color_fondo": "#c1d7ae"
+    },
+    {
+        "n_atom": 36,
+        "nombre": "Criptón",
+        "simbolo": "Kr",
+        "masa_atom": 83.8,
+        "est_oxid": [
+            0
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6",
+        "estado_natural": "gas inerte",
+        "tipo_material": "inerte",
+        "tipo_detallado": "gas inerte",
+        "color_simbolo": "#11b532",
+        "color_fondo": "#d8e2eb"
+    },
+    {
+        "n_atom": 37,
+        "nombre": "Rubidio",
+        "simbolo": "Rb",
+        "masa_atom": 85.47,
+        "est_oxid": [
+            1
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s1",
+        "estado_natural": "sólido",
+        "tipo_material": "metal",
+        "tipo_detallado": "metal alcalino",
+        "color_simbolo": "#000000",
+        "color_fondo": "#db8875"
+    },
+    {
+        "n_atom": 38,
+        "nombre": "Estroncio",
+        "simbolo": "Sr",
+        "masa_atom": 87.62,
+        "est_oxid": [
+            2
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2",
+        "estado_natural": "sólido",
+        "tipo_material": "metal",
+        "tipo_detallado": "metal alcalino térreo",
+        "color_simbolo": "#000000",
+        "color_fondo": "#85cc18"
+    },
+    {
+        "n_atom": 39,
+        "nombre": "Itrio",
+        "simbolo": "Y",
+        "masa_atom": 88.905,
+        "est_oxid": [
+            3
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d1",
+        "estado_natural": "sólido",
+        "tipo_material": "metal",
+        "tipo_detallado": "transición",
+        "color_simbolo": "#000000",
+        "color_fondo": "#f2ce72"
+    },
+    {
+        "n_atom": 40,
+        "nombre": "Circonio",
+        "simbolo": "Zr",
+        "masa_atom": 91.22,
+        "est_oxid": [
+            4
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d2",
+        "estado_natural": "sólido",
+        "tipo_material": "metal",
+        "tipo_detallado": "transición",
+        "color_simbolo": "#000000",
+        "color_fondo": "#f2ce72"
+    },
+    {
+        "n_atom": 41,
+        "nombre": "Niobio",
+        "simbolo": "Nb",
+        "masa_atom": 92.906,
+        "est_oxid": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d3",
+        "estado_natural": "sólido",
+        "tipo_material": "metal",
+        "tipo_detallado": "transición",
+        "color_simbolo": "#000000",
+        "color_fondo": "#f2ce72"
+    },
+    {
+        "n_atom": 42,
+        "nombre": "Molibdeno",
+        "simbolo": "Mo",
+        "masa_atom": 95.94,
+        "est_oxid": [
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d4",
+        "estado_natural": "sólido",
+        "tipo_material": "metal",
+        "tipo_detallado": "transición",
+        "color_simbolo": "#000000",
+        "color_fondo": "#f2ce72"
+    },
+    {
+        "n_atom": 43,
+        "nombre": "Tecnecio",
+        "simbolo": "Tc",
+        "masa_atom": 98.9063,
+        "est_oxid": [
+            1,
+            3,
+            4,
+            5,
+            6,
+            7
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d5",
+        "estado_natural": "artificial",
+        "tipo_material": "metal",
+        "tipo_detallado": "transición",
+        "color_simbolo": "#FFFFFF",
+        "color_fondo": "#f2ce72"
+    },
+    {
+        "n_atom": 44,
+        "nombre": "Rutenio",
+        "simbolo": "Ru",
+        "masa_atom": 101.07,
+        "est_oxid": [
+            2,
+            3,
+            4,
+            6,
+            8
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d6",
+        "estado_natural": "sólido",
+        "tipo_material": "metal",
+        "tipo_detallado": "transición",
+        "color_simbolo": "#000000",
+        "color_fondo": "#f2ce72"
+    },
+    {
+        "n_atom": 45,
+        "nombre": "Rodio",
+        "simbolo": "Rh",
+        "masa_atom": 102.905,
+        "est_oxid": [
+            2,
+            3,
+            4,
+            6
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d7",
+        "estado_natural": "sólido",
+        "tipo_material": "metal",
+        "tipo_detallado": "transición",
+        "color_simbolo": "#000000",
+        "color_fondo": "#f2ce72"
+    },
+    {
+        "n_atom": 46,
+        "nombre": "Paladio",
+        "simbolo": "Pd",
+        "masa_atom": 106.4,
+        "est_oxid": [
+            2,
+            4
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d8",
+        "estado_natural": "sólido",
+        "tipo_material": "metal",
+        "tipo_detallado": "transición",
+        "color_simbolo": "#000000",
+        "color_fondo": "#f2ce72"
+    },
+    {
+        "n_atom": 47,
+        "nombre": "Plata",
+        "simbolo": "Ag",
+        "masa_atom": 107.87,
+        "est_oxid": [
+            1
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d9",
+        "estado_natural": "sólido",
+        "tipo_material": "metal",
+        "tipo_detallado": "transición",
+        "color_simbolo": "#000000",
+        "color_fondo": "#f2ce72"
+    },
+    {
+        "n_atom": 48,
+        "nombre": "Cadmio",
+        "simbolo": "Cd",
+        "masa_atom": 112.4,
+        "est_oxid": [
+            2
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10",
+        "estado_natural": "sólido",
+        "tipo_material": "metal",
+        "tipo_detallado": "transición",
+        "color_simbolo": "#000000",
+        "color_fondo": "#f2ce72"
+    },
+    {
+        "n_atom": 49,
+        "nombre": "Indio",
+        "simbolo": "In",
+        "masa_atom": 114.92,
+        "est_oxid": [
+            3
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p1",
+        "estado_natural": "sólido",
+        "tipo_material": "metal",
+        "tipo_detallado": "metal pobre",
+        "color_simbolo": "#000000",
+        "color_fondo": "#FFB5B5"
+    },
+    {
+        "n_atom": 50,
+        "nombre": "Estaño",
+        "simbolo": "Sn",
+        "masa_atom": 118.69,
+        "est_oxid": [
+            2,
+            4
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p2",
+        "estado_natural": "sólido",
+        "tipo_material": "metal",
+        "tipo_detallado": "metal pobre",
+        "color_simbolo": "#000000",
+        "color_fondo": "#FFB5B5"
+    },
+    {
+        "n_atom": 51,
+        "nombre": "Antimonio",
+        "simbolo": "Sb",
+        "masa_atom": 121.75,
+        "est_oxid": [
+            3,
+            -3,
+            5
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p3",
+        "estado_natural": "sólido",
+        "tipo_material": "no metal",
+        "tipo_detallado": "metaloide",
+        "color_simbolo": "#000000",
+        "color_fondo": "#bada55"
+    },
+    {
+        "n_atom": 52,
+        "nombre": "Telurio",
+        "simbolo": "Te",
+        "masa_atom": 127.6,
+        "est_oxid": [
+            2,
+            -2,
+            4,
+            6
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p4",
+        "estado_natural": "sólido",
+        "tipo_material": "no metal",
+        "tipo_detallado": "metaloide",
+        "color_simbolo": "#000000",
+        "color_fondo": "#bada55"
+    },
+    {
+        "n_atom": 53,
+        "nombre": "Yodo",
+        "simbolo": "I",
+        "masa_atom": 126.904,
+        "est_oxid": [
+            1,
+            -1,
+            3,
+            5,
+            7
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p5",
+        "estado_natural": "sólido",
+        "tipo_material": "no metal",
+        "tipo_detallado": "no metal",
+        "color_simbolo": "#000000",
+        "color_fondo": "#c1d7ae"
+    },
+    {
+        "n_atom": 54,
+        "nombre": "Xenón",
+        "simbolo": "Xe",
+        "masa_atom": 131.3,
+        "est_oxid": [
+            0
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6",
+        "estado_natural": "gas inerte",
+        "tipo_material": "inerte",
+        "tipo_detallado": "gas inerte",
+        "color_simbolo": "#11b532",
+        "color_fondo": "#d8e2eb"
+    },
+    {
+        "n_atom": 55,
+        "nombre": "Cesio",
+        "simbolo": "Cs",
+        "masa_atom": 132.905,
+        "est_oxid": [
+            1
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s1",
+        "estado_natural": "líquido",
+        "tipo_material": "metal",
+        "tipo_detallado": "metal alcalino",
+        "color_simbolo": "#FF073D",
+        "color_fondo": "#db8875"
+    },
+    {
+        "n_atom": 56,
+        "nombre": "Bario",
+        "simbolo": "Ba",
+        "masa_atom": 137.34,
+        "est_oxid": [
+            2
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2",
+        "estado_natural": "sólido",
+        "tipo_material": "metal",
+        "tipo_detallado": "metal alcalino térreo",
+        "color_simbolo": "#000000",
+        "color_fondo": "#85cc18"
+    },
+    {
+        "n_atom": 57,
+        "nombre": "Lantano",
+        "simbolo": "La",
+        "masa_atom": 138.91,
+        "est_oxid": [
+            3
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f1",
+        "estado_natural": "sólido",
+        "tipo_material": "metal",
+        "tipo_detallado": "lantánido",
+        "color_simbolo": "#000000",
+        "color_fondo": "#ffdce2"
+    },
+    {
+        "n_atom": 58,
+        "nombre": "Cerio",
+        "simbolo": "Ce",
+        "masa_atom": 140.12,
+        "est_oxid": [
+            3,
+            4
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f2",
+        "estado_natural": "sólido",
+        "tipo_material": "metal",
+        "tipo_detallado": "lantánido",
+        "color_simbolo": "#000000",
+        "color_fondo": "#ffdce2"
+    },
+    {
+        "n_atom": 59,
+        "nombre": "Praseodimio",
+        "simbolo": "Pr",
+        "masa_atom": 140.907,
+        "est_oxid": [
+            3,
+            4
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f3",
+        "estado_natural": "sólido",
+        "tipo_material": "metal",
+        "tipo_detallado": "lantánido",
+        "color_simbolo": "#000000",
+        "color_fondo": "#ffdce2"
+    },
+    {
+        "n_atom": 60,
+        "nombre": "Neodimio",
+        "simbolo": "Nd",
+        "masa_atom": 144.24,
+        "est_oxid": [
+            3
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f4",
+        "estado_natural": "sólido",
+        "tipo_material": "metal",
+        "tipo_detallado": "lantánido",
+        "color_simbolo": "#000000",
+        "color_fondo": "#ffdce2"
+    },
+    {
+        "n_atom": 61,
+        "nombre": "Prometio",
+        "simbolo": "Pm",
+        "masa_atom": 147,
+        "est_oxid": [
+            3
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f5",
+        "estado_natural": "artificial",
+        "tipo_material": "metal",
+        "tipo_detallado": "lantánido",
+        "color_simbolo": "#FFFFFF",
+        "color_fondo": "#ffdce2"
+    },
+    {
+        "n_atom": 62,
+        "nombre": "Samario",
+        "simbolo": "Sm",
+        "masa_atom": 150.35,
+        "est_oxid": [
+            2,
+            3
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f6",
+        "estado_natural": "sólido",
+        "tipo_material": "metal",
+        "tipo_detallado": "lantánido",
+        "color_simbolo": "#000000",
+        "color_fondo": "#ffdce2"
+    },
+    {
+        "n_atom": 63,
+        "nombre": "Europio",
+        "simbolo": "Eu",
+        "masa_atom": 151.96,
+        "est_oxid": [
+            2
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f7",
+        "estado_natural": "sólido",
+        "tipo_material": "metal",
+        "tipo_detallado": "lantánido",
+        "color_simbolo": "#000000",
+        "color_fondo": "#ffdce2"
+    },
+    {
+        "n_atom": 64,
+        "nombre": "Gadolinio",
+        "simbolo": "Gd",
+        "masa_atom": 157.25,
+        "est_oxid": [
+            3,
+            4
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f8",
+        "estado_natural": "sólido",
+        "tipo_material": "metal",
+        "tipo_detallado": "lantánido",
+        "color_simbolo": "#000000",
+        "color_fondo": "#ffdce2"
+    },
+    {
+        "n_atom": 65,
+        "nombre": "Terbio",
+        "simbolo": "Tb",
+        "masa_atom": 158.924,
+        "est_oxid": [
+            3,
+            4
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f9",
+        "estado_natural": "sólido",
+        "tipo_material": "metal",
+        "tipo_detallado": "lantánido",
+        "color_simbolo": "#000000",
+        "color_fondo": "#ffdce2"
+    },
+    {
+        "n_atom": 66,
+        "nombre": "Disprosio",
+        "simbolo": "Dy",
+        "masa_atom": 162.5,
+        "est_oxid": [
+            3
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f10",
+        "estado_natural": "sólido",
+        "tipo_material": "metal",
+        "tipo_detallado": "lantánido",
+        "color_simbolo": "#000000",
+        "color_fondo": "#ffdce2"
+    },
+    {
+        "n_atom": 67,
+        "nombre": "Holmio",
+        "simbolo": "Ho",
+        "masa_atom": 164.93,
+        "est_oxid": [
+            3
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f11",
+        "estado_natural": "sólido",
+        "tipo_material": "metal",
+        "tipo_detallado": "lantánido",
+        "color_simbolo": "#000000",
+        "color_fondo": "#ffdce2"
+    },
+    {
+        "n_atom": 68,
+        "nombre": "Erbio",
+        "simbolo": "Er",
+        "masa_atom": 167.26,
+        "est_oxid": [
+            3
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f12",
+        "estado_natural": "sólido",
+        "tipo_material": "metal",
+        "tipo_detallado": "lantánido",
+        "color_simbolo": "#000000",
+        "color_fondo": "#ffdce2"
+    },
+    {
+        "n_atom": 69,
+        "nombre": "Tulio",
+        "simbolo": "Tm",
+        "masa_atom": 168.934,
+        "est_oxid": [
+            2,
+            3
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f13",
+        "estado_natural": "sólido",
+        "tipo_material": "metal",
+        "tipo_detallado": "lantánido",
+        "color_simbolo": "#000000",
+        "color_fondo": "#ffdce2"
+    },
+    {
+        "n_atom": 70,
+        "nombre": "Iterbio",
+        "simbolo": "Yb",
+        "masa_atom": 173.04,
+        "est_oxid": [
+            2,
+            3
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14",
+        "estado_natural": "sólido",
+        "tipo_material": "metal",
+        "tipo_detallado": "lantánido",
+        "color_simbolo": "#000000",
+        "color_fondo": "#ffdce2"
+    },
+    {
+        "n_atom": 71,
+        "nombre": "Lutecio",
+        "simbolo": "Lu",
+        "masa_atom": 174.97,
+        "est_oxid": [
+            3
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d1",
+        "estado_natural": "sólido",
+        "tipo_material": "metal",
+        "tipo_detallado": "lantánido",
+        "color_simbolo": "#000000",
+        "color_fondo": "#ffdce2"
+    },
+    {
+        "n_atom": 72,
+        "nombre": "Hafnio",
+        "simbolo": "Hf",
+        "masa_atom": 178.49,
+        "est_oxid": [
+            2,
+            3,
+            4
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d2",
+        "estado_natural": "sólido",
+        "tipo_material": "metal",
+        "tipo_detallado": "transición",
+        "color_simbolo": "#000000",
+        "color_fondo": "#f2ce72"
+    },
+    {
+        "n_atom": 73,
+        "nombre": "Tantalio",
+        "simbolo": "Ta",
+        "masa_atom": 180.948,
+        "est_oxid": [
+            5
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d3",
+        "estado_natural": "sólido",
+        "tipo_material": "metal",
+        "tipo_detallado": "transición",
+        "color_simbolo": "#000000",
+        "color_fondo": "#f2ce72"
+    },
+    {
+        "n_atom": 74,
+        "nombre": "Volframio",
+        "simbolo": "W",
+        "masa_atom": 183.85,
+        "est_oxid": [
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d4",
+        "estado_natural": "sólido",
+        "tipo_material": "metal",
+        "tipo_detallado": "transición",
+        "color_simbolo": "#000000",
+        "color_fondo": "#f2ce72"
+    },
+    {
+        "n_atom": 75,
+        "nombre": "Renio",
+        "simbolo": "Re",
+        "masa_atom": 186.2,
+        "est_oxid": [
+            -1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d5",
+        "estado_natural": "sólido",
+        "tipo_material": "metal",
+        "tipo_detallado": "transición",
+        "color_simbolo": "#000000",
+        "color_fondo": "#f2ce72"
+    },
+    {
+        "n_atom": 76,
+        "nombre": "Osmio",
+        "simbolo": "Os",
+        "masa_atom": 190.2,
+        "est_oxid": [
+            2,
+            3,
+            4,
+            6,
+            8
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d6",
+        "estado_natural": "sólido",
+        "tipo_material": "metal",
+        "tipo_detallado": "transición",
+        "color_simbolo": "#000000",
+        "color_fondo": "#f2ce72"
+    },
+    {
+        "n_atom": 77,
+        "nombre": "Iridio",
+        "simbolo": "Ir",
+        "masa_atom": 192.2,
+        "est_oxid": [
+            2,
+            3,
+            4,
+            6
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d7",
+        "estado_natural": "sólido",
+        "tipo_material": "metal",
+        "tipo_detallado": "transición",
+        "color_simbolo": "#000000",
+        "color_fondo": "#f2ce72"
+    },
+    {
+        "n_atom": 78,
+        "nombre": "Platino",
+        "simbolo": "Pt",
+        "masa_atom": 195.09,
+        "est_oxid": [
+            2,
+            4
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d8",
+        "estado_natural": "sólido",
+        "tipo_material": "metal",
+        "tipo_detallado": "transición",
+        "color_simbolo": "#000000",
+        "color_fondo": "#f2ce72"
+    },
+    {
+        "n_atom": 79,
+        "nombre": "Oro",
+        "simbolo": "Au",
+        "masa_atom": 196.967,
+        "est_oxid": [
+            1,
+            3
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d9",
+        "estado_natural": "sólido",
+        "tipo_material": "metal",
+        "tipo_detallado": "transición",
+        "color_simbolo": "#000000",
+        "color_fondo": "#f2ce72"
+    },
+    {
+        "n_atom": 80,
+        "nombre": "Mercurio",
+        "simbolo": "Hg",
+        "masa_atom": 200.59,
+        "est_oxid": [
+            1,
+            2
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10",
+        "estado_natural": "líquido",
+        "tipo_material": "metal",
+        "tipo_detallado": "transición",
+        "color_simbolo": "#FF073D",
+        "color_fondo": "#f2ce72"
+    },
+    {
+        "n_atom": 81,
+        "nombre": "Talio",
+        "simbolo": "Tl",
+        "masa_atom": 204.37,
+        "est_oxid": [
+            1,
+            3
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p1",
+        "estado_natural": "sólido",
+        "tipo_material": "metal",
+        "tipo_detallado": "metal pobre",
+        "color_simbolo": "#000000",
+        "color_fondo": "#FFB5B5"
+    },
+    {
+        "n_atom": 82,
+        "nombre": "Plomo",
+        "simbolo": "Pb",
+        "masa_atom": 207.19,
+        "est_oxid": [
+            2,
+            4
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p2",
+        "estado_natural": "sólido",
+        "tipo_material": "metal",
+        "tipo_detallado": "metal pobre",
+        "color_simbolo": "#000000",
+        "color_fondo": "#FFB5B5"
+    },
+    {
+        "n_atom": 83,
+        "nombre": "Bismuto",
+        "simbolo": "Bi",
+        "masa_atom": 208.98,
+        "est_oxid": [
+            3,
+            5
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p3",
+        "estado_natural": "sólido",
+        "tipo_material": "metal",
+        "tipo_detallado": "metal pobre",
+        "color_simbolo": "#000000",
+        "color_fondo": "#FFB5B5"
+    },
+    {
+        "n_atom": 84,
+        "nombre": "Polonio",
+        "simbolo": "Po",
+        "masa_atom": 210,
+        "est_oxid": [
+            -2,
+            2,
+            4,
+            6
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p4",
+        "estado_natural": "sólido",
+        "tipo_material": "no metal",
+        "tipo_detallado": "metaloide",
+        "color_simbolo": "#000000",
+        "color_fondo": "#bada55"
+    },
+    {
+        "n_atom": 85,
+        "nombre": "Astato",
+        "simbolo": "At",
+        "masa_atom": 210,
+        "est_oxid": [
+            -1,
+            1,
+            3,
+            5,
+            7
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p5",
+        "estado_natural": "sólido",
+        "tipo_material": "no metal",
+        "tipo_detallado": "no metal",
+        "color_simbolo": "#000000",
+        "color_fondo": "#c1d7ae"
+    },
+    {
+        "n_atom": 86,
+        "nombre": "Radón",
+        "simbolo": "Rn",
+        "masa_atom": 222,
+        "est_oxid": [
+            0
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6",
+        "estado_natural": "gas inerte",
+        "tipo_material": "inerte",
+        "tipo_detallado": "gas inerte",
+        "color_simbolo": "#11b532",
+        "color_fondo": "#d8e2eb"
+    },
+    {
+        "n_atom": 87,
+        "nombre": "Francio",
+        "simbolo": "Fr",
+        "masa_atom": 223,
+        "est_oxid": [
+            1
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s1",
+        "estado_natural": "sólido",
+        "tipo_material": "metal",
+        "tipo_detallado": "metal alcalino",
+        "color_simbolo": "#000000",
+        "color_fondo": "#db8875"
+    },
+    {
+        "n_atom": 88,
+        "nombre": "Radio",
+        "simbolo": "Ra",
+        "masa_atom": 226,
+        "est_oxid": [
+            2
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2",
+        "estado_natural": "sólido",
+        "tipo_material": "metal",
+        "tipo_detallado": "metal alcalino térreo",
+        "color_simbolo": "#000000",
+        "color_fondo": "#85cc18"
+    },
+    {
+        "n_atom": 89,
+        "nombre": "Actinio",
+        "simbolo": "Ac",
+        "masa_atom": 227,
+        "est_oxid": [
+            3
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f1",
+        "estado_natural": "sólido",
+        "tipo_material": "metal",
+        "tipo_detallado": "actínido",
+        "color_simbolo": "#000000",
+        "color_fondo": "#ccccff"
+    },
+    {
+        "n_atom": 90,
+        "nombre": "Torio",
+        "simbolo": "Th",
+        "masa_atom": 232.038,
+        "est_oxid": [
+            2,
+            3,
+            4
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f2",
+        "estado_natural": "sólido",
+        "tipo_material": "metal",
+        "tipo_detallado": "actínido",
+        "color_simbolo": "#000000",
+        "color_fondo": "#ccccff"
+    },
+    {
+        "n_atom": 91,
+        "nombre": "Proactinio",
+        "simbolo": "Pa",
+        "masa_atom": 231,
+        "est_oxid": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f3",
+        "estado_natural": "sólido",
+        "tipo_material": "metal",
+        "tipo_detallado": "actínido",
+        "color_simbolo": "#000000",
+        "color_fondo": "#ccccff"
+    },
+    {
+        "n_atom": 92,
+        "nombre": "Uranio",
+        "simbolo": "U",
+        "masa_atom": 238.03,
+        "est_oxid": [
+            3,
+            4,
+            5,
+            6
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f4",
+        "estado_natural": "sólido",
+        "tipo_material": "metal",
+        "tipo_detallado": "actínido",
+        "color_simbolo": "#000000",
+        "color_fondo": "#ccccff"
+    },
+    {
+        "n_atom": 93,
+        "nombre": "Neptunio",
+        "simbolo": "Np",
+        "masa_atom": 237,
+        "est_oxid": [
+            3,
+            4,
+            5,
+            6
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f5",
+        "estado_natural": "artificial",
+        "tipo_material": "metal",
+        "tipo_detallado": "actínido",
+        "color_simbolo": "#FFFFFF",
+        "color_fondo": "#ccccff"
+    },
+    {
+        "n_atom": 94,
+        "nombre": "Plutonio",
+        "simbolo": "Pu",
+        "masa_atom": 242,
+        "est_oxid": [
+            3,
+            4,
+            5,
+            6
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f6",
+        "estado_natural": "artificial",
+        "tipo_material": "metal",
+        "tipo_detallado": "actínido",
+        "color_simbolo": "#FFFFFF",
+        "color_fondo": "#ccccff"
+    },
+    {
+        "n_atom": 95,
+        "nombre": "Americio",
+        "simbolo": "Am",
+        "masa_atom": 243,
+        "est_oxid": [
+            3,
+            4,
+            5,
+            6
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f7",
+        "estado_natural": "artificial",
+        "tipo_material": "metal",
+        "tipo_detallado": "actínido",
+        "color_simbolo": "#FFFFFF",
+        "color_fondo": "#ccccff"
+    },
+    {
+        "n_atom": 96,
+        "nombre": "Curio",
+        "simbolo": "Cm",
+        "masa_atom": 247,
+        "est_oxid": [
+            3
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f8",
+        "estado_natural": "artificial",
+        "tipo_material": "metal",
+        "tipo_detallado": "actínido",
+        "color_simbolo": "#FFFFFF",
+        "color_fondo": "#ccccff"
+    },
+    {
+        "n_atom": 97,
+        "nombre": "Berkelio",
+        "simbolo": "Bk",
+        "masa_atom": 247,
+        "est_oxid": [
+            3,
+            4
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f9",
+        "estado_natural": "artificial",
+        "tipo_material": "metal",
+        "tipo_detallado": "actínido",
+        "color_simbolo": "#FFFFFF",
+        "color_fondo": "#ccccff"
+    },
+    {
+        "n_atom": 98,
+        "nombre": "Californio",
+        "simbolo": "Cf",
+        "masa_atom": 251,
+        "est_oxid": [
+            3
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f10",
+        "estado_natural": "artificial",
+        "tipo_material": "metal",
+        "tipo_detallado": "actínido",
+        "color_simbolo": "#FFFFFF",
+        "color_fondo": "#ccccff"
+    },
+    {
+        "n_atom": 99,
+        "nombre": "Einstenio",
+        "simbolo": "Ei",
+        "masa_atom": 252,
+        "est_oxid": [
+            "-"
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f11",
+        "estado_natural": "artificial",
+        "tipo_material": "metal",
+        "tipo_detallado": "actínido",
+        "color_simbolo": "#FFFFFF",
+        "color_fondo": "#ccccff"
+    },
+    {
+        "n_atom": 100,
+        "nombre": "Fermio",
+        "simbolo": "Fm",
+        "masa_atom": 257,
+        "est_oxid": [
+            "-"
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f12",
+        "estado_natural": "artificial",
+        "tipo_material": "metal",
+        "tipo_detallado": "actínido",
+        "color_simbolo": "#FFFFFF",
+        "color_fondo": "#ccccff"
+    },
+    {
+        "n_atom": 101,
+        "nombre": "Mendelevio",
+        "simbolo": "Md",
+        "masa_atom": 258,
+        "est_oxid": [
+            "-"
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f13",
+        "estado_natural": "artificial",
+        "tipo_material": "metal",
+        "tipo_detallado": "actínido",
+        "color_simbolo": "#FFFFFF",
+        "color_fondo": "#ccccff"
+    },
+    {
+        "n_atom": 102,
+        "nombre": "Nobelio",
+        "simbolo": "No",
+        "masa_atom": 259,
+        "est_oxid": [
+            "-"
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f14",
+        "estado_natural": "artificial",
+        "tipo_material": "metal",
+        "tipo_detallado": "actínido",
+        "color_simbolo": "#FFFFFF",
+        "color_fondo": "#ccccff"
+    },
+    {
+        "n_atom": 103,
+        "nombre": "Laurencio",
+        "simbolo": "Lw",
+        "masa_atom": 262,
+        "est_oxid": [
+            "-"
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f14 6d1",
+        "estado_natural": "artificial",
+        "tipo_material": "metal",
+        "tipo_detallado": "actínido",
+        "color_simbolo": "#FFFFFF",
+        "color_fondo": "#ccccff"
+    },
+    {
+        "n_atom": 104,
+        "nombre": "Rutherfordio",
+        "simbolo": "Rf",
+        "masa_atom": 261,
+        "est_oxid": [
+            "-"
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f14 6d2",
+        "estado_natural": "artificial",
+        "tipo_material": "metal",
+        "tipo_detallado": "transición",
+        "color_simbolo": "#FFFFFF",
+        "color_fondo": "#f2ce72"
+    },
+    {
+        "n_atom": 105,
+        "nombre": "Dubnio",
+        "simbolo": "Db",
+        "masa_atom": 262,
+        "est_oxid": [
+            "-"
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f14 6d3",
+        "estado_natural": "artificial",
+        "tipo_material": "metal",
+        "tipo_detallado": "transición",
+        "color_simbolo": "#FFFFFF",
+        "color_fondo": "#f2ce72"
+    },
+    {
+        "n_atom": 106,
+        "nombre": "Seaborgio",
+        "simbolo": "Sg",
+        "masa_atom": 263,
+        "est_oxid": [
+            6
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f14 6d4",
+        "estado_natural": "artificial",
+        "tipo_material": "metal",
+        "tipo_detallado": "transición",
+        "color_simbolo": "#FFFFFF",
+        "color_fondo": "#f2ce72"
+    },
+    {
+        "n_atom": 107,
+        "nombre": "Bohrio",
+        "simbolo": "Bh",
+        "masa_atom": 262,
+        "est_oxid": [
+            7
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f14 6d5",
+        "estado_natural": "artificial",
+        "tipo_material": "metal",
+        "tipo_detallado": "transición",
+        "color_simbolo": "#FFFFFF",
+        "color_fondo": "#f2ce72"
+    },
+    {
+        "n_atom": 108,
+        "nombre": "Hassio",
+        "simbolo": "Hs",
+        "masa_atom": 265,
+        "est_oxid": [
+            4
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f14 6d6",
+        "estado_natural": "artificial",
+        "tipo_material": "metal",
+        "tipo_detallado": "transición",
+        "color_simbolo": "#FFFFFF",
+        "color_fondo": "#f2ce72"
+    },
+    {
+        "n_atom": 109,
+        "nombre": "Meitnerio",
+        "simbolo": "Mt",
+        "masa_atom": 278,
+        "est_oxid": [
+            4
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f14 6d7",
+        "estado_natural": "artificial",
+        "tipo_material": "metal",
+        "tipo_detallado": "desconocido",
+        "color_simbolo": "#FFFFFF",
+        "color_fondo": "#b1b7bd"
+    },
+    {
+        "n_atom": 110,
+        "nombre": "Darmstatio",
+        "simbolo": "Ds",
+        "masa_atom": 281,
+        "est_oxid": [
+            4
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f14 6d8",
+        "estado_natural": "artificial",
+        "tipo_material": "metal",
+        "tipo_detallado": "desconocido",
+        "color_simbolo": "#FFFFFF",
+        "color_fondo": "#b1b7bd"
+    },
+    {
+        "n_atom": 111,
+        "nombre": "Roentgenio",
+        "simbolo": "Rg",
+        "masa_atom": 282,
+        "est_oxid": [
+            3
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f14 6d9",
+        "estado_natural": "artificial",
+        "tipo_material": "metal",
+        "tipo_detallado": "desconocido",
+        "color_simbolo": "#FFFFFF",
+        "color_fondo": "#b1b7bd"
+    },
+    {
+        "n_atom": 112,
+        "nombre": "Copernicio",
+        "simbolo": "Cn",
+        "masa_atom": 285,
+        "est_oxid": [
+            2
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f14 6d10",
+        "estado_natural": "artificial",
+        "tipo_material": "metal",
+        "tipo_detallado": "desconocido",
+        "color_simbolo": "#FFFFFF",
+        "color_fondo": "#b1b7bd"
+    },
+    {
+        "n_atom": 113,
+        "nombre": "Nihonio",
+        "simbolo": "Nh",
+        "masa_atom": 286,
+        "est_oxid": [
+            "-"
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f14 6d10 7p1",
+        "estado_natural": "artificial",
+        "tipo_material": "desconocido",
+        "tipo_detallado": "desconocido",
+        "color_simbolo": "#FFFFFF",
+        "color_fondo": "#b1b7bd"
+    },
+    {
+        "n_atom": 114,
+        "nombre": "Flerovio",
+        "simbolo": "Fl",
+        "masa_atom": 289,
+        "est_oxid": [
+            2,
+            4
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f14 6d10 7p2",
+        "estado_natural": "artificial",
+        "tipo_material": "desconocido",
+        "tipo_detallado": "desconocido",
+        "color_simbolo": "#FFFFFF",
+        "color_fondo": "#b1b7bd"
+    },
+    {
+        "n_atom": 115,
+        "nombre": "Moscovio",
+        "simbolo": "Mc",
+        "masa_atom": 290,
+        "est_oxid": [
+            "-"
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f14 6d10 7p3",
+        "estado_natural": "artificial",
+        "tipo_material": "desconocido",
+        "tipo_detallado": "desconocido",
+        "color_simbolo": "#FFFFFF",
+        "color_fondo": "#b1b7bd"
+    },
+    {
+        "n_atom": 116,
+        "nombre": "Livermorio",
+        "simbolo": "Lv",
+        "masa_atom": 293,
+        "est_oxid": [
+            2,
+            4
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f14 6d10 7p4",
+        "estado_natural": "artificial",
+        "tipo_material": "desconocido",
+        "tipo_detallado": "desconocido",
+        "color_simbolo": "#FFFFFF",
+        "color_fondo": "#b1b7bd"
+    },
+    {
+        "n_atom": 117,
+        "nombre": "Teneso",
+        "simbolo": "Ts",
+        "masa_atom": 294,
+        "est_oxid": [
+            "-"
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f14 6d10 7p5",
+        "estado_natural": "artificial",
+        "tipo_material": "desconocido",
+        "tipo_detallado": "desconocido",
+        "color_simbolo": "#FFFFFF",
+        "color_fondo": "#b1b7bd"
+    },
+    {
+        "n_atom": 118,
+        "nombre": "Oganesón",
+        "simbolo": "Og",
+        "masa_atom": 294,
+        "est_oxid": [
+            2
+        ],
+        "config_elec": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f14 6d10 7p6",
+        "estado_natural": "artificial",
+        "tipo_material": "desconocido",
+        "tipo_detallado": "desconocido",
+        "color_simbolo": "#FFFFFF",
+        "color_fondo": "#b1b7bd"
+    }
+]

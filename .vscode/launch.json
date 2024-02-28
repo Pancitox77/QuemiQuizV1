@@ -1,0 +1,23 @@
+{
+    // Use IntelliSense para saber los atributos posibles.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos.
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Pruebas",
+            "request": "launch",
+            "mainClass": "principal.Pruebas",
+            "projectName": "QuemiQuizV1_3ca90bca"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "principal.App",
+            "projectName": "QuemiQuizV1_3ca90bca",
+            "vmArgs": "--module-path javafx-sdk-19/lib --add-modules javafx.controls,javafx.fxml"
+        }
+    ]
+}
